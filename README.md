@@ -1,1 +1,3 @@
-# Spam_or_not_spam
+# Data Science Internship Training
+
+Training tasks for data science internship
