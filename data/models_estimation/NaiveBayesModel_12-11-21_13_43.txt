@@ -1,0 +1,11 @@
+NaiveBayesModel
+
+Accuracy: 0.9650067294751009
+Recall: 0.7346938775510204
+Precision: 1.0
+F1: 0.8470588235294119
+Confusion matrix: 
+true negatives: 1935
+false negatives: 78
+true positives: 216
+false positives: 0
